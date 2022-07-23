@@ -5,4 +5,11 @@
 \
 &nbsp;
 
-<h2 align='center'> See [Presentation PDF](FoodJunkiesPresentation.pdf) for the full project presentation </h2>
+<h2 align='center'> See the full presentation at: 
+<a href="https://github.com/ShhmonDai/FoodJunkies/blob/main/FoodJunkiesPresentation.pdf">Presentation PDF</a>
+</h2>
+
+\
+&nbsp;
+\
+&nbsp;
