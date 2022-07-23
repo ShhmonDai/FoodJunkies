@@ -4,7 +4,7 @@
 
 
 <h2 align='center'> See the full presentation at: 
-<a href="https://github.com/ShhmonDai/FoodJunkies/blob/main/FoodJunkiesPresentation.pdf">Presentation PDF</a>
+<a href="https://github.com/ShhmonDai/FoodJunkies/blob/main/FoodJunkiesReadme.pdf">Presentation PDF</a>
 </h2>
 
 &nbsp;
