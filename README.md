@@ -7,6 +7,17 @@
 <a href="https://github.com/ShhmonDai/FoodJunkies/blob/main/FoodJunkiesReadme.pdf">Presentation PDF</a>
 </h2>
 
+<h3 align='center'> See the Java code at: 
+<a href="https://github.com/ShhmonDai/FoodJunkies/tree/main/Android/foodjunkies/app/src/main/java/fj/foodjunkies">Java Frontend</a>
+</h3>
+
+<h3 align='center'> See the PHP code at: 
+<a href="https://github.com/ShhmonDai/FoodJunkies/tree/main/Backend">PHP Backend</a>
+</h3>
+
+
+
+
 &nbsp;
 
 Preview: 
